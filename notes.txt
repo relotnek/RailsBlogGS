@@ -1,2 +1,0 @@
-BLOG for Rails Getting Started Guide
-
